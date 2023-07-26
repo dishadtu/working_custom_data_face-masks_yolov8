@@ -16,3 +16,5 @@ I have referred https://github.com/Balakishan77/Yolov8-Custom-Object-Detetction/
 
 I have made some corrections to the file path and have also added an image to better understand the file structure that one needs to have in Google Drive.
 I have also added the test file to be used (test-for-masks.mp4) and the resultant file after testing (test-for-masks(1).mp4)
+
+[Image for Masks](https://github.com/dishadtu/working_custom_data_yolov8/blob/main/Screenshot%202023-07-26%20at%203.01.43%20PM.png)
