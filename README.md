@@ -1,10 +1,10 @@
 # working_custom_data_yolov8
 
 This repo explains the custom object detection training using Yolov8. 
-It is perhaps the simplest example to work with also. 
 
-So essentially I am using the default yolo weights.
+ I start off using the default yolo weights.
 Then running the Yolo on the custom data set (because the default dataset used in Yolo does not address face mask images) which generates custom weights best.pt. 
+So it implies that anyone using the best.pt as weights in their own programs can very easily identify if the image or video contains people with face masks.
 
 The tests took around 25mins or so to run with the GPU support.
 I ran a similar test with yolov3 on my laptop and it was still running after 2 days ....
